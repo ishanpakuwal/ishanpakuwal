@@ -64,10 +64,6 @@ Software Engineer at Microsoft specializing in AI, large-scale distributed syste
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanpakuwal&layout=compact&langs_count=8" alt="Top Languages">
 </p>
 
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=ishanpakuwal" alt="GitHub Streak">
-</p>
-
 ---
 
 ### 🌱 Outside of Code
